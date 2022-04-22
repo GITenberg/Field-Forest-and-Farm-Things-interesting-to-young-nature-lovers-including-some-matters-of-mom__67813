@@ -1,5 +1,8 @@
 _repo: Field-Forest-and-Farm-Things-interesting-to-young-nature-lovers-including-some-matters-of-mom__67813
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fabre, Jean-Henri
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/735
     wikipedia: https://en.wikipedia.org/wiki/Jean_Henri_Fabre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67813#Field-Forest-and-Farm-Things-interesting-to-young-nature-lovers-including-some-matters-of-mom_
 gutenberg_issued: '2022-04-11'
 identifiers:
   gutenberg: '67813'
